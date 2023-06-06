@@ -1,6 +1,6 @@
 # Table of contents
 
-* [V-QUANTUM-ANNEALING](README.md)
+* [V-QUANTUM1-ANNEALING](README.md)
 
 ## INTRODUCTION
 
